@@ -1,0 +1,33 @@
+Para abrir a apresentação é apenas necessário abrir o ficheiro "wiki.html".
+Este abre a página principal do site com a primeira falácia.
+
+/////
+-----IMPORTANTE-----Problemas de formatação-----
+/////
+
+As páginas foram todas desenvolvidas com o objetivo de serem abertas com o google chrome. Se, no chrome, a página estiver desformatada, alterar o zoom (ampliar ou diminuir) deve resolver o problema. 
+A forma mais fácil de verificar se a página está corretamente formatada é observar a página principal e verificar se o texto "a enciclopédia que todos podem recriar" está alinhado com o texto acima "Bem vindo à wikipédia".
+
+/////
+-----IMPORTANTE-----Problemas de formatação------
+/////
+
+
+/////
+-----Como navegar no trabalho-----
+/////
+
+
+A partir de qualquer página no projeto, se clicar num dos três itens ao lado da falácia, a página das suas respetivas falácias será aberta (falácia 1 é a do burger king, falácia 2 é a da women's secret e falácia 6 é a da UNICEF).
+
+Em qualquer página do site, clicar no botão de pesquisa abre a falácia da Dra. Maria João Ruela (falácia 3).
+
+A partir desta página, clicar na menção de André Ventura abre a página do seu tweet (falácia 4).
+
+Nesta, a menção de André Ventura no primeiro parágrafo da falácia de apelo à gozação abre a página da entrevista (falácia 5).
+
+A partir de qualquer página no projeto, clicar no nome do website, na barra acima, abre a página inicial (wiki).
+
+A maioria das letras a azul no projeto são links para ou páginas da wikipédia ou para páginas relevantes para a apresentação.
+
+As imagens também têm links para partes diferentes da apresentação, páginas a ser exibidas na apresentação, entre outros (como a imagem do burger king, na sua falácia, que é um link para a página oficial do burger king).
